@@ -30,7 +30,7 @@ From my data exploration, here are some of the findings made:
 
 ## Key Insights for Presentation
 
-The following amongst others are the Insights for this [Presentation](https://yusuff14.github.io/communicate_fordgobike_findings.github.io/);
+The following amongst others are the Insights for this [Slideshow Presentation](https://yusuff14.github.io/communicate_fordgobike_findings.github.io/);
 
 > The first insight involves age distribution as well as trip duration of the users of which both are skewed to the right.
 
