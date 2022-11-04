@@ -6,7 +6,7 @@
 
 This dataset is a compilation of the records of a bike hailing service known as FordGoBike. It contains information about individual rides made in a bike-sharing system. This dataset contains 183,412 observations with 16 variables which include: Ride duration (Secs), Start and end time, Start and end station id and Name, Start and end station Latitutude and Longitude, Bike Id, User type, Member birth year, Member gender, Bike share for all trip (Yes or No). Moreso, this dataset was provided by Udacity and it can be downloaded through this [link here](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv).
 
-After careful assessment and wrangling of the data, I discovered the need for feature engineering. Then, I created three more variables from the existing features to aid my analysis which were trip duration minutes, age and days of the week. This consequently increased my features to 19.
+After careful assessment and cleaning of the data, I discovered the need for feature engineering. Then, I created three more variables from the existing features to aid my analysis which were trip duration minutes, age and days of the week. This consequently increased my features to 19.
 
 
 ## Summary of Findings
@@ -30,7 +30,7 @@ From my data exploration, here are some of the findings made:
 
 ## Key Insights for Presentation
 
-The following amongst others are the Insights for this [Slideshow Presentation](https://yusuff14.github.io/communicate_fordgobike_findings.github.io/);
+The following amongst others are the Insights generated in this [Slideshow](https://yusuff14.github.io/communicate_fordgobike_findings.github.io/);
 
 > The first insight involves age distribution as well as trip duration of the users of which both are skewed to the right.
 
